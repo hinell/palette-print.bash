@@ -238,6 +238,7 @@ __palette.bash(){
 		fi
 		
 		echo -en "$output";
+		echo
 	} # palette.print end
 
 
